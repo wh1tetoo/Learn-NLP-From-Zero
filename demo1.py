@@ -1,0 +1,1 @@
+print("Launch my first python file in VScode")
